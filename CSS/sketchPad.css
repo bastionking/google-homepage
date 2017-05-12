@@ -1,0 +1,27 @@
+
+.pad
+{
+  background-color : white;
+  display:inline-block;
+  margin:0px;
+  padding:0px;
+float:right;
+}
+
+.contain16
+{
+width: 800px;
+height: 805px;
+outline: 1px solid black;
+margin:50px auto;
+
+}
+
+.form {
+  span:100px;
+}
+
+.container{
+  marin:auto;
+  text-align: center;
+}
